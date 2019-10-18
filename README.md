@@ -1,2 +1,1 @@
 # MyRepositoryByBook1
-g
